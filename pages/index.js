@@ -9,7 +9,19 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Good day everyone! I would like to introduce myself. My name is Jewel Marie P.  Ocampo. I am 20 years old and was born on September 20, 2002. I was born in Arayat but I live in San Luis Pampanga. I like going to the beach and taking pictures of the sunset. My favorite music as of now is “would u cry '' by settbaby. My all time favorite food is donuts. </p>
+        <p> 
+    10 Things That Require Zero Talent
+
+<ul> <li> 1. Being On Time </li>
+<li>2. Making An Effort </li>
+<li>3. Being High Energy </li>
+<li>4. Having A Positive Attitude </li>
+<li>5. Being Passionate </li>
+<li>6. Using Good Body Language </li>
+<li>7. Being Coachable </li>
+<li>8. Doing A Little Extra </li>
+<li>9. Being Prepared </li>
+<li>10. Having A Strong Work Ethic </p> </ul>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
