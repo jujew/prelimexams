@@ -6,10 +6,9 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <title>{No talent Required}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-      <p><b>Warup brah! I am Jewel Ocampo rAwr!! </b></p>
         <p><b>10 Things That Require Zero Talent</b></p>
         <ul>
         <li>1. Being on Time</li>
@@ -23,10 +22,6 @@ export default function Home() {
         <li>9. Being Prepared</li>
         <li>10. Having A Strong Work Ethic</li>
         </ul>
-        <p><b>3 Things to expect to this subject</b></p>
-        <li>1. Easy</li>
-        <li>2. Interesting</li>
-        <li>3. Unforgettable</li>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
