@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <Layout home>
       <Head>
-        <title>{No talent Required}</title>
+        <title>{site title}</title>
       </Head>
       <section className={utilStyles.headingMd}>
         <p><b>10 Things That Require Zero Talent</b></p>
